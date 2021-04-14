@@ -1,8 +1,8 @@
 # AffectNet-D and RaFD-D
 
 AffectNet-D and RaFD-D are datasets that contain depthmaps for a subset of AffectNet (~87K) and RaFD (~4K) images. 
-AffectNet is a large-scale in-the-wild face dataset that consists of 8 different expressions as well as valence and arousal annotations. 
-Similarly, RaFD provides a dataset that contains facial expression in a controlled environment.
+[AffectNet](http://mohammadmahoor.com/affectnet/) is a large-scale in-the-wild face dataset that consists of 8 different expressions as well as valence and arousal annotations. 
+Similarly, [RaFD](http://www.socsci.ru.nl:8180/RaFD2/RaFD) provides a dataset that contains facial expression in a controlled environment.
 
 ## Details
 
@@ -20,7 +20,7 @@ The statistics for the datasets constructed by using the aaforementioned method 
 ## Samples
 
 
-<img src="https://github.com/rumi-b/3d-dense_geo_expression_synthesis/blob/main/images/depth_samples.png" width="830" height="700">
+<img src="https://github.com/rumi-b/3d-dense_geo_expression_synthesis/blob/main/images/depth_samples.png" width="830" height="660">
 
 ## Downloads
 Link to download [AffectNet-D](https://drive.google.com/file/d/1i89A_br_OA2Oe5fjrwaOvpzo-Fw4ClSe/view?usp=sharing)
