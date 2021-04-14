@@ -6,32 +6,32 @@ Similarly, RaFD provides a dataset that contains facial expression in a controll
 
 ## Details
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Wa have 
 
 ## Samples
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
+
 
 ## Downloads
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
 
 
 ## Agreement
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+The AffectNet-D and RaFD-D datasets are available for non-commercial research purposes only.
+All images of the AffectNet dataset are obtained from the Internet by. 
+You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data. The publishers reserve the right to terminate your access to the datasets at any time.
 
 ## Citation
-
-* Hat tip to anyone whose code was used
-* Inspiration
+```
+@InProceedings{Bodur_2021_WACV,
+    author    = {Bodur, Rumeysa and Bhattarai, Binod and Kim, Tae-Kyun},
+    title     = {3D Dense Geometry-Guided Facial Expression Synthesis by Adversarial Learning},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2021},
+    pages     = {2392-2401}
+}
+```
