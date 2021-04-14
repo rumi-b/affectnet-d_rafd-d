@@ -17,6 +17,7 @@ We propose to augment existing expression annotated datasets, AffectNet and RaFD
 
 ## Samples
 
+![Pipeline](https://github.com/rumi-b/3d-dense_geo_expression_synthesis/blob/main/images/depth_samples.png)
 
 
 
