@@ -6,9 +6,11 @@ Similarly, RaFD provides a dataset that contains facial expression in a controll
 
 ## Details
 
-We propose to augment existing expression annotated datasets, AffectNet and RaFD, with depth information. To this end, we propose to use an existing state-ofthe-art method to reconstruct the 3D models of faces. We carefully investigated the quality of the reconstructed 3D models and discarded the ones which are not fitted well. From these 3D models, we computed the corresponding depth maps and surface normal maps. 
+We propose to augment existing expression annotated datasets, AffectNet and RaFD, with depth information. To this end, we propose to use an existing state-of-the-art [method](https://github.com/anhttran/extreme_3d_faces) to reconstruct the 3D models of faces. We carefully investigated the quality of the reconstructed 3D models and discarded the ones which are not fitted well. From these 3D models, we computed the corresponding depth maps. 
 
 ![Pipeline](https://github.com/rumi-b/3d-dense_geo_expression_synthesis/blob/main/images/depthmap_pipeline.png)
+
+The statistics for the datasets constructed by using the aaforementioned method are presented on the table below.
 
 | Dataset     | Anger | Contempt | Disgust | Fear | Happy | Neutral | Sadness | Surprise | Total |
 | ------------|:-----:|:--------:|:-------:|:----:|:-----:|:-------:|:-------:|:--------:|:-----:|
@@ -18,7 +20,7 @@ We propose to augment existing expression annotated datasets, AffectNet and RaFD
 ## Samples
 
 
-<img src="https://github.com/rumi-b/3d-dense_geo_expression_synthesis/blob/main/images/depth_samples.png" width="900" height="750">
+<img src="https://github.com/rumi-b/3d-dense_geo_expression_synthesis/blob/main/images/depth_samples.png" width="830" height="700">
 
 ## Downloads
 Link to download [AffectNet-D](https://drive.google.com/file/d/1i89A_br_OA2Oe5fjrwaOvpzo-Fw4ClSe/view?usp=sharing)
