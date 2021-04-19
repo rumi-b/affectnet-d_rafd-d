@@ -30,9 +30,7 @@ Link to download [RaFD-D](https://drive.google.com/file/d/1Z5WL2bUZw5w9SjoIHo2Se
 
 ## Agreement
 
-The AffectNet-D and RaFD-D datasets are available for non-commercial research purposes only.
-All images of the AffectNet dataset are obtained from the Internet by. 
-You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data. The publishers reserve the right to terminate your access to the datasets at any time.
+The AffectNet-D and RaFD-D datasets are available for non-commercial research purposes only. You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data. The publishers reserve the right to terminate your access to the datasets at any time.
 
 ## Citation
 ```
