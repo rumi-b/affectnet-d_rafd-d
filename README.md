@@ -20,7 +20,7 @@ The statistics for the datasets constructed by using the aaforementioned method 
 ## Samples
 
 
-<img src="https://github.com/rumi-b/3d-dense_geo_expression_synthesis/blob/main/images/depth_samples.png" width="830" height="660">
+<img src="https://github.com/rumi-b/3d-dense_geo_expression_synthesis/blob/main/images/depth_samples.png" width="800" height="400">
 
 ## Downloads
 Link to download [AffectNet-D](https://drive.google.com/file/d/1i89A_br_OA2Oe5fjrwaOvpzo-Fw4ClSe/view?usp=sharing)
